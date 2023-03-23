@@ -5,7 +5,7 @@ main ()
   int a, b, c, sum, prod;
   printf ("Enter the number");
   scanf ("%d", &a);
-  sum = 0;
+  sum = 0; 
   prod = 1;
   b = a;
   while (a != 0)
